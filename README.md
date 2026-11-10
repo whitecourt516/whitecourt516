@@ -1,4 +1,4 @@
-### Hi, I'm Eddie 👋
+### Hi, I'm Whitecourt516 
 
 Entry-level security analyst. **CompTIA Security+** certified, top 1% on TryHackMe, and I build tools in Python with security designed in from the start.
 
